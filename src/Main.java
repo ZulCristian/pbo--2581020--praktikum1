@@ -1,9 +1,9 @@
 public class Biodata {
     public static void main(String[] args) {
         String nama = "Zul Cristian Purba";
-        String nim = "";
-        String prodi = "";
-        String asalDaerah = "";
+        String nim = "2581020";
+        String prodi = "Teknik Informatika";
+        String asalDaerah = "Sumatera Utara";
         String alasanMemilihProdi = "";
         String targetSemester = "Mendapat nilai yang baik dan memahami fundamental dalam membuat sebuah program/coding";
         String hobi = "Bermain gitar dan badminton";
