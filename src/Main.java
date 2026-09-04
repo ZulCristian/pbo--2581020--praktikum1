@@ -4,7 +4,7 @@ public class Biodata {
         String nim = "2581020";
         String prodi = "Teknik Informatika";
         String asalDaerah = "Sumatera Utara";
-        String alasanMemilihProdi = "";
+        String alasanMemilihProdi = "karena saya tertarik dengan teknologi dan pemrograman";
         String targetSemester = "Mendapat nilai yang baik dan memahami fundamental dalam membuat sebuah program/coding";
         String hobi = "Bermain gitar dan badminton";
 
